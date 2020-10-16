@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace Ennoble_xControllerApi.Controllers
+namespace Ennoble_XControllerApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

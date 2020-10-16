@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ennoble-xControllerApi", "Ennoble-xControllerApi\Ennoble-xControllerApi.csproj", "{5B5BEB50-2CED-4E70-82EC-D754F89BDEDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ennoble-xController.DataAccess", "Ennoble-xController.DataAccess\Ennoble-xController.DataAccess.csproj", "{37D9E530-7EA3-40E4-BD4C-4CD16DE5C47A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ennoble-xController.DataAccess", "Ennoble-xController.DataAccess\Ennoble-xController.DataAccess.csproj", "{37D9E530-7EA3-40E4-BD4C-4CD16DE5C47A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ennoble-XControllerApi", "Ennoble-XControllerApi\Ennoble-XControllerApi.csproj", "{C2B56C1D-0018-4946-83C5-D2F0DA175929}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5B5BEB50-2CED-4E70-82EC-D754F89BDEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B5BEB50-2CED-4E70-82EC-D754F89BDEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B5BEB50-2CED-4E70-82EC-D754F89BDEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B5BEB50-2CED-4E70-82EC-D754F89BDEDA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{37D9E530-7EA3-40E4-BD4C-4CD16DE5C47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{37D9E530-7EA3-40E4-BD4C-4CD16DE5C47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37D9E530-7EA3-40E4-BD4C-4CD16DE5C47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37D9E530-7EA3-40E4-BD4C-4CD16DE5C47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B56C1D-0018-4946-83C5-D2F0DA175929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B56C1D-0018-4946-83C5-D2F0DA175929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B56C1D-0018-4946-83C5-D2F0DA175929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B56C1D-0018-4946-83C5-D2F0DA175929}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

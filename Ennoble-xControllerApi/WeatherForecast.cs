@@ -1,6 +1,6 @@
 using System;
 
-namespace Ennoble_xControllerApi
+namespace Ennoble_XControllerApi
 {
     public class WeatherForecast
     {

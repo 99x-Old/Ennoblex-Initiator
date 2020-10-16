@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OTHER\\Innoble-x\\Ennoble-x\\Ennoble-xController.DataAccess\\Ennoble-xController.DataAccess.csproj": {}
+    "D:\\OTHER\\Innoble-x\\Ennoble-xControllerApi\\Ennoble-xController.DataAccess\\Ennoble-xController.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\OTHER\\Innoble-x\\Ennoble-x\\Ennoble-xController.DataAccess\\Ennoble-xController.DataAccess.csproj": {
+    "D:\\OTHER\\Innoble-x\\Ennoble-xControllerApi\\Ennoble-xController.DataAccess\\Ennoble-xController.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OTHER\\Innoble-x\\Ennoble-x\\Ennoble-xController.DataAccess\\Ennoble-xController.DataAccess.csproj",
+        "projectUniqueName": "D:\\OTHER\\Innoble-x\\Ennoble-xControllerApi\\Ennoble-xController.DataAccess\\Ennoble-xController.DataAccess.csproj",
         "projectName": "Ennoble-xController.DataAccess",
-        "projectPath": "D:\\OTHER\\Innoble-x\\Ennoble-x\\Ennoble-xController.DataAccess\\Ennoble-xController.DataAccess.csproj",
+        "projectPath": "D:\\OTHER\\Innoble-x\\Ennoble-xControllerApi\\Ennoble-xController.DataAccess\\Ennoble-xController.DataAccess.csproj",
         "packagesPath": "C:\\Users\\rashanl\\.nuget\\packages\\",
-        "outputPath": "D:\\OTHER\\Innoble-x\\Ennoble-x\\Ennoble-xController.DataAccess\\obj\\",
+        "outputPath": "D:\\OTHER\\Innoble-x\\Ennoble-xControllerApi\\Ennoble-xController.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rashanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,28 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

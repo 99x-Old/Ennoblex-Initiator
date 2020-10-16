@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace Ennoble_xControllerApi
+namespace Ennoble_XControllerApi
 {
     public class Program
     {

@@ -1,0 +1,17 @@
+D:\OTHER\Innoble-x\Ennoble-x\Ennoble-xController.DataAccess\bin\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.deps.json
+D:\OTHER\Innoble-x\Ennoble-x\Ennoble-xController.DataAccess\bin\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.dll
+D:\OTHER\Innoble-x\Ennoble-x\Ennoble-xController.DataAccess\obj\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.csprojAssemblyReference.cache
+D:\OTHER\Innoble-x\Ennoble-x\Ennoble-xController.DataAccess\obj\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.AssemblyInfoInputs.cache
+D:\OTHER\Innoble-x\Ennoble-x\Ennoble-xController.DataAccess\obj\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.AssemblyInfo.cs
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\bin\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.deps.json
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\bin\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.dll
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\obj\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.csprojAssemblyReference.cache
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\obj\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.AssemblyInfoInputs.cache
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\obj\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.AssemblyInfo.cs
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\bin\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.runtimeconfig.json
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\bin\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.runtimeconfig.dev.json
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\obj\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.genruntimeconfig.cache
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\bin\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.pdb
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\obj\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.csproj.CoreCompileInputs.cache
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\obj\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.dll
+D:\OTHER\Innoble-x\Ennoble-xControllerApi\Ennoble-xController.DataAccess\obj\Debug\netcoreapp3.1\Ennoble-xController.DataAccess.pdb
